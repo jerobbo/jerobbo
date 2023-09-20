@@ -1,10 +1,12 @@
-Cloud Security Architect / Engineer
+Cloud Security Architect / Engineer currently working for Computacenter and assigned to a top UK retailer as Lead Cloud Security Architect.
 
 🔭 I’m currently working on Azure with a special interest in Security.
 
+📫 How to reach me: jrobbo@gmail.com
+
 Doing some things with Sentinel, Defender, PowerShell and KQL
 
-📫 How to reach me: jrobbo@gmail.com
+
 
 Here's my Wiki: https://github.com/jerobbo/jerobbo/wiki
 

@@ -1,4 +1,4 @@
-Cloud Security guy working for Computacenter and assigned to a top UK retailer as Lead Cloud Security Architect.
+Cloud Security guy working for Computacenter.
 
 🔭 I’m currently working on Azure with a special interest in Security.
 

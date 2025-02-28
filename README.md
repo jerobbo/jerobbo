@@ -1,16 +1,12 @@
-Cloud Security guy working for Computacenter.
+Cloud Practice Lead for Computacenter.
 
-🔭 I’m currently working on Azure with a special interest in Security.
+🔭 I’m currently working on Azure.
 
 📫 How to reach me: jrobbo@gmail.com
 
-Doing some things with Sentinel, Defender, PowerShell and KQL
+Some newer stuff with Terraform.
 
-
-
-Here's my Wiki: https://github.com/jerobbo/jerobbo/wiki
-
-Here's the tooling table: https://github.com/jerobbo/jerobbo/wiki/Tooling
+Some old stuff with Sentinel, Defender, PowerShell and KQL
 
 Here's the tool I wrote to export Sentinel data and make it look pretty: https://github.com/jerobbo/SentinelExporter
 

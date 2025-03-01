@@ -10,10 +10,7 @@ variable "location" {
   default     = "uksouth"
 }
 
-variable "resource_group_name" {
-  description = "Name of the resource group"
-  type        = string
-}
+
 
 variable "tags" {
   description = "A map of tags to add to all resources"
@@ -27,13 +24,13 @@ variable "tags" {
 variable "subscription_id" {
   description = "Azure subscription ID"
   type        = string
-  default     = ab6ecffa-0822-4e61-9500-8088ae61c8fc
+  default     = "ab6ecffa-0822-4e61-9500-8088ae61c8fc"
 }
 
 variable "tenant_id" {
   description = "Azure tenant ID"
   type        = string
-  default     = 3c73d230-a9ea-45b1-8453-46d65b2b4203
+  default     = "3c73d230-a9ea-45b1-8453-46d65b2b4203"
 }
 
 
